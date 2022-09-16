@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text=""
-        android:hint="Coloque as suas Anotações"
+        android:hint="@string/digitar_anotacoes"
         android:gravity="start"
         android:padding="15dp"
         android:textColor="@color/black"
