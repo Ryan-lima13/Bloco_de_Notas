@@ -36,5 +36,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.853"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/ic_salvar" />
+        app:srcCompat="@drawable/ic_salvar"
+        tools:ignore="SpeakableTextPresentCheck" />
 </androidx.constraintlayout.widget.ConstraintLayout>
